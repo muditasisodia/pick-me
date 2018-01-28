@@ -1,5 +1,4 @@
 <img src="/images/logo.png" width="150" height="100">
-# PickMe
 
 This is a webapp designed for animal welfare organisations to handle pet adoptions.
 
